@@ -23,6 +23,8 @@ i = 0
 tf = True
 j = 0
 
+#ADD HUFFMAN CODE
+
 while tf == True:
         if 2**j >= total:
                 print "Encode with %i bits" % (j)
